@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AE1B3754-8BFC-408F-ABC0-F39C934DDA0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>progressView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2E7EC2C50CFB26A7EB3CF3C60A62FF2DD4E1B1D</key>
+		<string>https://github.com/liuzhecodekiller/circleprogressView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>progressView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2E7EC2C50CFB26A7EB3CF3C60A62FF2DD4E1B1D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liuzhecodekiller/circleprogressView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2E7EC2C50CFB26A7EB3CF3C60A62FF2DD4E1B1D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2E7EC2C50CFB26A7EB3CF3C60A62FF2DD4E1B1D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>progressView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
